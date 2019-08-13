@@ -4,6 +4,15 @@
 
 __Korean/Swiss hybrid teams are highly encouraged__
 
+
+Group2
+
+Jiyong Kang
+
+Taekbom Lee
+
+Basile Botebol
+
 ### For this first part, you will need to:
 
 * From a Wireshark pcap file, using Scapy, manually extract the necessary elements in order to derive the encryption and integrity keys
